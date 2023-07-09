@@ -5,7 +5,6 @@ This repository contains the source code for an AI Summarizer Generator site bui
 ## Features
 
 - Summarize Text: Users can input a large amount of text and generate a concise summary using the AI-powered summarization algorithm.
-- Customizable Summary Length: The site allows users to specify the desired length of the summary based on their requirements.
 - Responsive Design: The user interface is built using React and Tailwind CSS, ensuring a responsive experience across various devices and screen sizes.
 
 ## Technologies Used
@@ -71,9 +70,6 @@ Contributions are welcome! If you find any issues or want to enhance the functio
 
 Please make sure to follow the coding conventions and create descriptive commit messages for better collaboration.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE). Feel free to modify and distribute it as needed.
 
 ## Acknowledgements
 
@@ -81,3 +77,7 @@ This project is licensed under the [MIT License](LICENSE). Feel free to modify a
 - [React](https://reactjs.org): A JavaScript library for building user interfaces.
 - [Redux](https://redux.js.org): A state management library for JavaScript applications.
 - [Tailwind CSS](https://tailwindcss.com): A utility-first CSS framework for rapidly building custom designs.
+
+##Hosted:
+
+https://64ab143fc6d6e65f45dcbe3b--aigenerator.netlify.app/
